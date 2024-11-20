@@ -9,7 +9,7 @@ Este eBook de 7 páginas explora como a Inteligência Artificial está transform
 
 
 ## 🧐 Processo de Criação
-Utilizei o ChatGPT para coletar e analisar informações sobre a aplicação da Inteligência Artificial na economia. O conteúdo foi estruturado com a ajuda da IA, que me auxiliou a organizar as ideias e desenvolver o texto. A edição final foi realizada no Google Docs, onde também adicionei algumas fotos, garantindo um formato acessível e editável.
+Utilizei o ChatGPT para coletar e analisar informações sobre a aplicação da Inteligência Artificial na economia. O conteúdo foi estruturado com a ajuda da IA, que me auxiliou a organizar as ideias e desenvolver o texto. A edição final foi realizada no Google Docs, onde também adicionei algumas fotos, garantindo um formato acessível e editável. 
 
 ## 🚀 Resultados
 O eBook oferece uma visão clara e concisa sobre o impacto da IA na economia, com dados relevantes e uma narrativa que ajuda a ilustrar como essa tecnologia está moldando o futuro dos negócios.
